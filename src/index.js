@@ -55,6 +55,7 @@ export { default as CDBSidebarContent } from './components/Sidebar/SidebarConten
 export { default as CDBSidebarFooter } from './components/Sidebar/SidebarFooter'
 export { default as CDBSidebarHeader } from './components/Sidebar/SidebarHeader'
 export { default as CDBSidebarMenu } from './components/Sidebar/SidebarMenu'
+export { default as CDBSidebarMenuContent } from './components/Sidebar/SidebarMenuContent'
 export { default as CDBSidebarMenuItem } from './components/Sidebar/SidebarMenuItem'
 export { default as CDBSlider } from './components/Slider'
 export { default as CDBSmoothScroll } from './components/SmoothScroll'
