@@ -27,7 +27,8 @@ const SidebarMenuContent = forwardRef(({ children, className, isShy, ...rest }, 
 SidebarMenuContent.propTypes = {
     className: PropTypes.string,
     children: PropTypes.node,
-    isShy: PropTypes.bool
+    // Inline externally set property; So string.
+    isShy: PropTypes.string
 }
 
 export default SidebarMenuContent;

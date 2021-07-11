@@ -12,7 +12,7 @@ export const MenuContent = styled.div`
   overflow: hidden;
   text-overflow: ellipsis;
 
-  transition: opacity 0.25s 0.05s, transition 0.25s, 0.05s;
+  transition: opacity 0.25s 0.05s, visibility 0s, 0.3s;
 
   &.toggled.isShy {
     opacity 0;
