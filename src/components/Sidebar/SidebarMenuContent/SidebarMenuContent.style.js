@@ -5,7 +5,7 @@ export const MenuContent = styled.div`
   position: relative;
   display: flex;
   align-items: center;
-  padding: 8px 2px 8px 15px;
+  padding: 9px 10px 9px 15px;
   height: 45px;
   outline: none;
 
