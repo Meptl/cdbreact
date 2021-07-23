@@ -24,7 +24,7 @@ const Sidebar = forwardRef((
 
 
   const [sidebarState, setSidebarState] = useState({
-    toggled: false,
+    toggled: true,
     handleToggleSidebar,
     textColor,
     backgroundColor
